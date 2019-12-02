@@ -1,0 +1,104 @@
+CVE_OPERACION,CVE_RAMO,CVE_SUBRAMO,CVE_SUBSUBRAM,DESCRIPCION,OPERACION,RAMO,SUBRAMO
+1000,10,0,0,Vida,1,0,0
+1000,10,11,0,Vida Individual,0,1,1
+1000,10,12,0,Vida Grupo,0,1,1
+1000,10,13,0,Vida Colectivo,0,1,1
+2000,20,0,0,Pensiones,1,0,0
+2000,20,21,0,IMSS Incapacidad Permanente RT,0,1,1
+2000,20,22,0,IMSS Muerte (riesgos de trabajo),0,1,1
+2000,20,23,0,IMSS Invalidez (invalidez y vida),0,1,1
+2000,20,24,0,IMSS Muerte (invalidez y vida),0,1,1
+2000,20,25,0,"IMSS Jubilación (retiro, cesantía y vejez)",0,1,1
+2000,20,201,0,ISSSTE Incapacidad Permanente RT,0,1,1
+2000,20,202,0,ISSSTE Muerte (riesgos de trabajo),0,1,1
+2000,20,203,0,ISSSTE Invalidez (invalidez y vida),0,1,1
+2000,20,204,0,ISSSTE Muerte (invalidez y vida),0,1,1
+2000,20,205,0,"ISSSTE Jubilación (retiro, cesantía y vejez)",0,1,1
+3000,30,0,0,Accidentes y Enfermedades,1,0,0
+3000,30,331,0,Accidentes Personales,0,1,0
+3000,30,331,31,AP Individual,0,0,1
+3000,30,331,32,AP Grupo,0,0,1
+3000,30,331,33,AP Colectivo,0,0,1
+3000,30,332,0,Gastos Médicos,0,1,0
+3000,30,332,34,GMM. Individual,0,0,1
+3000,30,332,35,GMM. Grupo,0,0,1
+3000,30,332,36,GMM. Colectivo,0,0,1
+3000,30,333,0,Salud,0,1,0
+3000,30,333,37,Salud Individual,0,0,1
+3000,30,333,38,Salud Grupo,0,0,1
+3000,30,333,39,Salud Colectivo,0,0,1
+4000,0,0,0,Daños,1,0,0
+4000,40,0,0,Responsabilidad Civil y Riesgos Profesionales,0,1,0
+4000,40,41,0,General,0,0,1
+4000,40,42,0,Aviones y Barcos,0,0,1
+4000,40,43,0,Viajero,0,0,1
+4000,40,44,0,Otros,0,0,1
+4000,50,0,0,Marítimo y Transportes,0,1,0
+4000,50,51,0,Carga,0,0,1
+4000,50,52,0,Cascos,0,0,1
+4000,60,0,0,Incendio,0,1,1
+4000,70,0,0,Riesgos Catastróficos,0,1,0
+4000,70,71,0,Terremoto y Erupción Volcánica,0,0,1
+4000,70,73,0,Huracán y Otros Riesgos Hidrometeorológicos,0,0,1
+4000,70,75,0,Otros,0,0,1
+4000,80,0,0,Agrícola y de animales,0,1,0
+4000,80,81,0,Agrícola,0,0,1
+4000,80,82,0,Pecuario,0,0,1
+4000,80,83,0,Otros,0,0,1
+4000,90,0,0,Automóviles,0,1,0
+4000,90,91,0,Automóviles Residentes,0,0,1
+4000,90,92,0,Camiones,0,0,1
+4000,90,93,0,Automóviles Turistas,0,0,1
+4000,90,94,0,Otros,0,0,1
+4000,90,95,0,Obligatorios,0,0,1
+4000,100,0,0,Crédito,0,1,1
+4000,103,0,0,Crédito a la vivienda,0,1,1
+4000,106,0,0,Garantía financiera,0,1,1
+4000,110,0,0,Diversos,0,1,0
+4000,110,111,0,Misceláneos,0,0,1
+4000,110,112,0,Técnicos,0,0,1
+4000,130,0,0,Reafianzamiento,0,1,0
+4000,130,131,0,Fidelidad,0,0,1
+4000,130,132,0,Judicial o Penal,0,0,1
+4000,130,133,0, Administrativo,0,0,1
+4000,130,134,0,De crédito,0,0,1
+4000,190,0,0,Caución,0,1,0
+4000,190,191,0, Fidelidad,0,0,1
+4000,190,192,0, Judicial o Penal,0,0,1
+4000,190,192,1921, Penales,0,0,0
+4000,190,192,1922, No penales,0,0,0
+4000,190,192,1923, Amparan conductores de automóviles,0,0,0
+4000,190,193,0, Administrativo,0,0,1
+4000,190,193,1931, Por Obra,0,0,0
+4000,190,193,1932, Proveeduría,0,0,0
+4000,190,193,1933, Fiscales,0,0,0
+4000,190,193,1934, Arrendamiento,0,0,0
+4000,190,193,1935, Otras de Administrativo,0,0,0
+4000,190,194,0, De Crédito,0,0,1
+4000,190,194,1941, Suministro,0,0,0
+4000,190,194,1942, Compra Venta,0,0,0
+4000,190,194,1943, Financiera,0,0,0
+4000,190,194,1944, Otras de Crédito,0,0,0
+5000,0,0,0,Fianzas,1,0,0
+5000,140,0,0,Fidelidad,0,1,0
+5000,140,141,0,Individual,0,0,1
+5000,140,142,0, Colectivo,0,0,1
+5000,150,0,0, Judicial o Penal,0,1,0
+5000,150,151,0, Penales,0,0,1
+5000,150,152,0, No penales,0,0,1
+5000,150,153,0, Amparan conductores de automóviles,0,0,1
+5000,160,0,0, Administrativo,0,1,0
+5000,160,161,0, Por Obra,0,0,1
+5000,160,162,0, Proveeduría,0,0,1
+5000,160,163,0, Fiscales,0,0,1
+5000,160,164,0, Arrendamiento,0,0,1
+5000,160,165,0, Otras de Administrativo,0,0,1
+5000,170,0,0,De crédito,0,1,0
+5000,170,171,0, Suministro,0,0,1
+5000,170,172,0, Compra Venta,0,0,1
+5000,170,173,0, Financiera,0,0,1
+5000,170,174,0, Otras de Crédito,0,0,1
+5000,180,0,0, Fideicomisos en garantía,0,1,0
+5000,180,181,0, Relacionados con pólizas de fianzas,0,0,1
+5000,180,182,0, Sin relación con póliza de fianzas,0,0,1
+6000,0,0,0,Fondo de Pensiones o Jubil. y Primas de Antig. en Admon.,0,0,0

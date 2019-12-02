@@ -1,0 +1,483 @@
+﻿ID_NIVEL,NIVEL_1,NIVEL_2,DESCRIPCION
+0,0,0,Requerimiento de Capital de Solvencia
+100000000,100,0,Total Activo
+110000000,110,0,Inversiones
+110010000,110,1,Valores y Operaciones con Productos Derivados
+110010100,110,1,Valores
+110010101,110,1,Gubernamentales
+110010102,110,1,Empresas Privadas. Tasa Conocida
+110010103,110,1,Empresas Privadas. Renta Variable
+110010104,110,1,Extranjeros
+110010105,110,1,Dividendos por Cobrar sobre Títulos de Capital
+110010106,110,1,Deterioro de Valores (-)
+110010107,110,1,Inversiones en Valores dados en Préstamo
+110010108,110,1,Valores Restringidos
+110010200,110,1,Operaciones con Productos Derivados
+110010201,110,1,Prima Pagada de Contratos de Opciones
+110010202,110,1,Aportaciones y Garantías de Operaciones con Derivados
+110010203,110,1,Valor Razonable (parte activa) al momento de la adquisición
+110020000,110,2,Deudor por Reporto
+110030000,110,3,Cartera de Crédito (Neto)
+110030100,110,3,Cartera de Crédito Vigente
+110030101,110,3,  Sobre Pólizas
+110030102,110,3,  Créditos a la Vivienda
+110030103,110,3,  Créditos Comerciales
+110030104,110,3,  Créditos Quirografarios
+110030105,110,3,  Préstamos por Contratos de Reaseguro Financiero Otorgados
+110030106,110,3,  Descuentos y Redescuentos
+110030200,110,3,Cartera de Crédito Vencida
+110030201,110,3,  Sobre Pólizas
+110030202,110,3,  Créditos a la Vivienda
+110030203,110,3,  Créditos Comerciales
+110030204,110,3,  Créditos Quirografarios
+110030205,110,3,  Préstamos por Contratos de Reaseguro Financiero Otorgados
+110030206,110,3,  Descuentos y Redescuentos
+110030300,110,3,Estimaciones Preventivas para Riesgo Crediticio
+110030301,110,3,  Créditos a la Vivienda
+110030302,110,3,  Créditos Comerciales
+110030303,110,3,  Créditos Quirografarios
+110030304,110,3,  Préstamos por Contratos de Reaseguro Financiero Otorgados
+110030305,110,3,  Descuentos y Redescuentos
+110040000,110,4,Inmuebles (Neto)
+110040100,110,4,Inmuebles
+110040200,110,4,Valuación Neta
+110040300,110,4,Depreciación (-)
+120000000,120,0,Inversiones para Obligaciones Laborales
+130000000,130,0,Disponibilidad
+130010000,130,1,Caja
+130020000,130,2,"Bancos, Cuenta de Cheques"
+140000000,140,0,Deudores
+140010000,140,1,Por Primas
+140020000,140,2,Deudor por Prima por Subsidio Daños
+140030000,140,3, Adeudos a Cargo de Dependencias y Entidades de la Administración Pública   Federal
+140040000,140,4,Primas por Cobrar de Fianzas Expedidas
+140050000,140,5,Agentes y Ajustadores
+140050100,140,5,"Agentes, Cuenta Corriente"
+140050200,140,5,Adeudos por Primas Cobradas No Reportadas
+140050300,140,5,"Ajustadores, Cuenta Corriente"
+140060000,140,6,Documentos por Cobrar
+140070000,140,7,Deudores por Responsabilidades
+140070100,140,7,Deudores por Responsabilidades de Fianzas por Reclamaciones Pagadas
+140070200,140,7,Provisiones de Fondos Recibidos de Particulares (-)
+140070300,140,7,Deudores por Siniestros de Seguros de Caución
+140080000,140,8,Otros
+140080100,140,8,Deudores Diversos
+140080200,140,8,Depósitos en Garantía
+140080300,140,8,I.V.A. Pagado por Aplicar
+140080400,140,8,Deudores por Intereses sobre Depósitos Recibidos en Garantía
+140080500,140,8,"Matriz y Sucursales, Cuenta Corriente"
+140080600,140,8,Deudores por Servicios Análogos y Conexos
+140080700,140,8,Deudores por operaciones de Coaseguro
+140080701,140,8,Primas en Coaseguro
+140080702,140,8,Estimaciones por recuperar de Coaseguro por siniestros pendientes
+140080703,140,8,Gastos de ajuste por operaciones de Coaseguro
+140080704,140,8,Ingresos y gastos por recuperar de Coaseguro
+140090000,140,9,Estimación para Castigos (-)
+140090100,140,9,Estimación para Castigos de Primas por Cobrar
+140090200,140,9,Estimación para Castigos de Adeudos Diversos
+140090300,140,9,Estimación para Castigos de Adeudos por Primas Cobradas No Reportadas
+140090400,140,9,Estimación para Castigos de Deudores por Responsabilidades
+150000000,150,0,Reaseguradores y Reafianzadores
+150010000,150,1,Instituciones de Seguros y Fianzas
+150010100,150,1,"Instituciones, Cuenta Corriente"
+150010200,150,1,Comisiones por Cobrar del Reaseguro y Reafianzamiento Cedido
+150020000,150,2,Depósitos Retenidos
+150020100,150,2,Primas Retenidas por Reaseguro y Reafianzamiento Tomado
+150020200,150,2,Siniestros Retenidos por Reaseguro Tomado
+150030000,150,3,Importes Recuperables de Reaseguro
+150030100,150,3,Por Participación de Instituciones o Reaseguradores Extranjeros por riesgos en curso (Valuación a Tasa Técnica Pactada)
+150030200,150,3,Por Participación de Instituciones o Reaseguradores Extranjeros por riesgos en curso de Largo Plazo por Variaciones en las Tasas de Interés
+150030300,150,3,Por Participación de Instituciones o Reaseguradores Extranjeros por Siniestros Pendientes
+150030400,150,3,Por Participación de Instituciones o Reaseguradores Extranjeros en la Reserva de Fianzas en Vigor
+150030500,150,3,Por Participación de Reaseguradores por Salvamentos Pendientes de Venta por Reaseguro Tomado
+150030600,150,3,"Por Participación de Reaseguradores en Siniestros Pagados de Contado, del Reaseguro Tomado"
+150030700,150,3,Por Participación de Reafianzadoras y Reaseguradores por Reclamaciones de Fianzas y Siniestros Pagados por Seguros de Caución
+150030800,150,3,Por Participación de Reafianzadoras en Pasivos Constituidos
+150030900,150,3,Por Participación de Reaseguradoras por Coberturas de Reaseguro y Reafianzamiento No Proporcional
+150031000,150,3,Estimación preventiva de riesgos crediticios de Reaseguradores Extranjeros (-)
+150031100,150,3,Importes Recuperables de Reaseguro por efectos de la aplicación de los métodos de valuación en la reserva de riesgos en curso
+150031200,150,3,Importes Recuperables de Reaseguro por efectos de la aplicación de los métodos de valuación en la reserva para obligaciones pendientes de cumplir por siniestros ocurridos y no reportados
+150040000,150,4,Intermediarios de Reaseguro y Reafianzamiento
+150050000,150,5,Estimación para Castigos (-)
+160000000,160,0,Inversiones Permanentes
+160010000,160,1,Subsidiarias
+160020000,160,2,Asociadas
+160030000,160,3,Otras Inversiones Permanentes
+170000000,170,0,Otros Activos
+170010000,170,1,Total Mobiliario y Equipo
+170010100,170,1,Mobiliario y Equipo
+170010200,170,1,Mobiliario y Equipo adquiridos mediante Contratos de Arrendamiento
+170010300,170,1,Depreciación Acumulada de Mobiliario y Equipo (-)
+170010400,170,1,Depreciación Acumulada de Mobiliario y Equipo Adquirido en Arrendamiento (-)
+170020000,170,2,Total Activos Adjudicados
+170020100,170,2,Activos Adjudicados
+170020200,170,2,Activos Adjudicados Derivados de Disposición de Inversiones
+170020300,170,2,Estimación para castigos (-)
+170030000,170,3,Diversos
+170030100,170,3,Inventario de Salvamentos por Realizar
+170030200,170,3,Pagos Anticipados
+170030300,170,3,Impuestos Pagados por Anticipado
+170030400,170,3,Impuestos a la Utilidad Diferidos por Aplicar
+170030500,170,3,Participación del Personal en las Utilidades Diferidas (A favor)
+170040000,170,4,Activos Intangibles Amortizables
+170040100,170,4,Gastos de Establecimiento y Reorganización
+170040200,170,4,Gastos de Adaptaciones y Mejoras
+170040300,170,4,Otros Conceptos por Amortizar
+170040400,170,4,"Gastos de Emisión y Colocación de Obligaciones Subordinadas Convertibles Obligatoriamente a Capital, por Amortizar"
+170040500,170,4,Gastos de Emisión y Colocación de Obligaciones Subordinadas No Susceptibles de Convertirse en Acciones
+170040600,170,4,Gastos de Emisión y Colocación de Otros Títulos de Crédito
+170040700,170,4,Costos y gastos asociados con el otorgamiento del Crédito
+170050000,170,5,Amortización (-)
+170050100,170,5,Amortización Acumulada de Gastos de Establecimiento y Reorganización
+170050200,170,5,Amortización Acumulada de Adaptaciones y Mejoras
+170050300,170,5,Amortización Acumulada de Gastos de Emisión de Instrumentos de Deuda
+170060000,170,6,Activos Intangibles de Larga Duración
+170060100,170,6,Activos Intangibles de Larga Duración
+170060200,170,6,Deterioro del Valor de los Activos de Larga Duración (-)
+200000000,200,0,Total Pasivo
+210000000,210,0,Reservas Técnicas
+211000000,211,0,Reserva de Riesgos en Curso
+211010000,211,1,Reserva de Riesgos en Curso (Valuación a Tasa Técnica Pactada)
+211010100,211,1,Seguros de Vida
+211010101,211,1,Vida Individual
+211010102,211,1,Vida Colectivo
+211010103,211,1,Vida Grupo
+211010200,211,1,Seguros de Accidentes y Enfermedades
+211010201,211,1,Gastos Médicos
+211010202,211,1,Accidentes Personales
+211010203,211,1,Salud
+211010300,211,1,Seguros de Daños
+211010301,211,1,Responsabilidad civil y riesgos profesionales
+211010302,211,1,Marítimo y transportes
+211010303,211,1,Incendio
+211010304,211,1,Agrícola y de animales
+211010305,211,1,Automóviles
+211010306,211,1,Crédito
+211010307,211,1,Caución
+211010308,211,1,Crédito a la vivienda
+211010309,211,1,Garantía financiera
+211010310,211,1,Riesgos catastróficos
+211010311,211,1,Diversos
+211010400,211,1,Reafianzamiento Tomado
+211010500,211,1,Reserva de Fianzas en Vigor
+211010501,211,1,Fidelidad
+211010502,211,1,Judiciales
+211010503,211,1,Administrativas
+211010504,211,1,Crédito
+211010505,211,1,Fideicomisos de garantía
+211020000,211,2,Resultado en la Valuación de la Reserva de Riesgos en Curso de Largo Plazo por Variaciones en las Tasas de Interés
+211020100,211,2,Seguros de Vida
+211020101,211,2,Vida Individual
+211020102,211,2,Vida Colectivo
+211020103,211,2,Vida Grupo
+211020200,211,2,Seguros de Accidentes y Enfermedades
+211020201,211,2,Gastos Médicos
+211020202,211,2,Accidentes Personales
+211020203,211,2,Salud
+211020300,211,2,Seguros de Daños
+211020301,211,2,Responsabilidad civil y riesgos profesionales
+211020302,211,2,Marítimo y transportes
+211020303,211,2,Incendio
+211020304,211,2,Agrícola y de animales
+211020305,211,2,Automóviles
+211020306,211,2,Crédito
+211020307,211,2,Caución
+211020308,211,2,Crédito a la vivienda
+211020309,211,2,Garantía financiera
+211020310,211,2,Riesgos catastróficos
+211020311,211,2,Diversos
+211020400,211,2,Reafianzamiento Tomado
+211020500,211,2,Reserva de Fianzas en Vigor
+211020501,211,2,Fidelidad
+211020502,211,2,Judiciales
+211020503,211,2,Administrativas
+211020504,211,2,Crédito
+211020505,211,2,Fideicomisos de garantía
+211030000,211,3,Efectos por aplicación de los Métodos de Valuación de la Reserva de Riesgos en Curso
+211040000,211,4,Reserva técnica especial por uso de tarifas experimentales
+212000000,212,0,Reserva para Obligaciones Pendientes de Cumplir
+212010000,212,1,Por pólizas vencidas y siniestros ocurridos pendientes de pago. Montos conocidos
+212010100,212,1,Vida
+212010200,212,1,Accidentes y Enfermedades
+212010300,212,1,Daños
+212020000,212,2,Por pólizas vencidas y siniestros ocurridos pendientes de pago. Montos no conocidos susceptibles de ajustes
+212020100,212,2,Accidentes y Enfermedades
+212020200,212,2,Daños
+212030000,212,3,Por pólizas vencidas y siniestros ocurridos pendientes de pago. Por dividendos y repartos periódicos de utilidades
+212030100,212,3,Vida
+212030200,212,3,Accidentes y Enfermedades
+212030300,212,3,Daños
+212040000,212,4,Por siniestros ocurridos y no reportados y gastos de ajuste asignados a los siniestros.
+212040100,212,4,Vida
+212040200,212,4,Accidentes y Enfermedades
+212040300,212,4,Daños
+212050000,212,5,Por fondos en administración
+212060000,212,6,Por Primas en Depósito
+212070000,212,7,Efectos por Aplicación de los Métodos de Valuación de la Reserva para Obligaciones Pendientes de Cumplir por Siniestros Ocurridos y No Reportados
+213000000,213,0,Reserva de Contingencia
+213010000,213,1,Seguros de pensiones derivados de la seguridad social
+213020000,213,2,Otros seguros
+213030000,213,3,Fianzas
+214000000,214,0,Reservas para Seguros Especializados
+214010000,214,1,Reserva especial de previsión para siniestros (mutualistas)
+214020000,214,2,Reserva para Fluctuación de Inversiones
+215000000,215,0,Reservas de Riesgos Catastróficos
+215010000,215,1,Agrícolas y de Animales
+215020000,215,2,Crédito
+215030000,215,3,Caución
+215040000,215,4,Crédito  a la Vivienda
+215050000,215,5,Garantía Financiera
+215060000,215,6,Terremoto
+215070000,215,7,Huracán y Otros Riesgos Hidrometeorológicos
+220000000,220,0,Reservas para Obligaciones Laborales
+230000000,230,0,Acreedores
+230010000,230,1,Agentes y Ajustadores
+230010100,230,1,"Agentes, Cuenta Corriente"
+230010200,230,1,Comisiones por Devengar
+230010300,230,1,Reserva para Compensaciones Adicionales a Agentes
+230010400,230,1,"Ajustadores, Cuenta Corriente"
+230020000,230,2,Fondos en Administración de Pérdidas
+230020100,230,2,Acreedores por Fondos en Administración de Pérdidas
+230020200,230,2,Acreedores por Gastos Realizados por Administración de Pérdidas
+230030000,230,3,Acreedores por Responsabilidades de Fianzas por Pasivos Constituidos
+230040000,230,4,Diversos
+230040100,230,4,Derechos de Inspección y Vigilancia
+230040200,230,4,Dividendos por Pagar sobre Acciones
+230040300,230,4,Acreedores por Intermediación de Otros Servicios
+230040400,230,4,Acreedores por Intereses de Depósitos Recibidos en Garantía
+230040500,230,4,Acreedores por Contratos de Arrendamiento
+230040600,230,4,Acreedores por Intereses de las Obligaciones Subordinadas de Conversión Obligatoria a Capital
+230040700,230,4,Acreedores por Pólizas Canceladas
+230040800,230,4,Acreedores Diversos
+230040900,230,4,Adeudos a favor del IMSS
+230041000,230,4,Acreedores por operaciones de Coaseguro
+230041001,230,4,Primas en Coaseguro
+230041002,230,4,Salvamentos en Coaseguro
+230041003,230,4,(-) Comisiones por operaciones de Coaseguro
+230041100,230,4,Recuperación de siniestros a cargo de terceros
+230041200,230,4,Egresos por Coaseguro
+230041300,230,4,Adeudos al Fondo Especial de Seguros
+230041400,230,4,Provisiones para Beneficios Adicionales
+230041500,230,4,Matriz y Sucursales
+230041600,230,4,Dividendos y Bonificaciones por Pagar sobre Pólizas de Fianzas
+230041700,230,4,Adeudos por Líneas de Crédito
+240000000,240,0,Reaseguradores y Reafianzadores
+240010000,240,1,Instituciones de Seguros y Fianzas
+240010100,240,1,"Instituciones, Cuenta Corriente"
+240010200,240,1,Comisiones por Pagar del Reaseguro Tomado
+240020000,240,2,Depósitos Retenidos
+240020100,240,2,Primas Retenidas por Reaseguro y Reafianzamiento Cedido
+240020200,240,2,Reserva de Siniestros Retenidos por Reaseguro Cedido
+240030000,240,3,Otras Participaciones
+240030100,240,3,Participación de Reaseguradores por Salvamentos Pendientes de Venta por Reaseguro Cedido
+240030200,240,3,Participación a Reafianzadoras y Reaseguradoras de Garantías Pendientes de Recuperar
+240030300,240,3,"Participación a Reafianzadoras de Recuperaciones, por Pagar"
+240030400,240,3,Acreedores por Primas de Coberturas de Reaseguro y Reafianzamiento No Proporcional
+240040000,240,4,Intermediarios de Reaseguro y Reafianzamiento
+250000000,250,0,Operaciones con Productos Derivados. Valor Razonable (parte pasiva) al momento de la adquisición
+260000000,260,0,Financiamientos Obtenidos
+260010000,260,1,Emisión de Deuda
+260010100,260,1,Obligaciones Subordinadas No Susceptibles de Convertirse en Acciones
+260010200,260,1,Otros Títulos de Crédito
+260020000,260,2,Contratos de Reaseguro Financiero
+270000000,270,0,Otros Pasivos
+270010000,270,1,Provisión para la Participación de los Trabajadores en la Utilidad
+270020000,270,2,Provisión para el Pago de Impuestos
+270030000,270,3,Otras Obligaciones
+270030100,270,3,Depósitos en Garantía de Rentas
+270030200,270,3,Provisión para Obligaciones Diversas
+270030300,270,3,Impuestos Retenidos a Cargo de Terceros
+270030400,270,3,I.V.A. por Pagar
+270030500,270,3,I.V.A. por Devengar
+270030600,270,3,Depósitos en Garantía por otorgamiento de Créditos
+270030700,270,3,Acreedores por otorgamiento de Créditos
+270040000,270,4,Créditos Diferidos
+270040100,270,4,Provisión para la Participación de los Trabajadores en la Utilidad Diferida
+270040200,270,4,Provisión para el Pago de Impuestos a la Utilidad Diferidos
+270040300,270,4,Recargos sobre Primas por Devengar
+270040400,270,4,Productos Cobrados por Anticipado
+270040500,270,4,Comisiones por otorgamiento de Créditos
+270040600,270,4,Ingreso financiero por devengar derivado del otorgamiento de Créditos
+270040700,270,4,Ingreso financiero por devengar en contratos de arrendamiento capitalizable
+300000000,300,0,Total Capital
+310000000,310,0,Capital Contribuido
+310010000,310,1,Capital o Fondo Social Pagado
+310010100,310,1,Capital o Fondo Social
+310010200,310,1,Capital o Fondo No Suscrito (-)
+310010300,310,1,Capital o Fondo Social No Exhibido (-)
+310010400,310,1,Acciones Propias Recompradas (-)
+310020000,310,2,Obligaciones Subordinadas de Conversión Obligatoria a Capital
+320000000,320,0,Capital Ganado
+320010000,320,1,Reservas
+320010100,320,1,Legal
+320010200,320,1,Para Adquisición de Acciones Propias
+320010300,320,1,Otras
+320010301,320,1,Reserva por Primas en Venta de Acciones
+320010302,320,1,Aportaciones para Futuros Aumentos de Capital
+320010303,320,1,Otras Reservas
+320010304,320,1,Fondo de Organización
+320020000,320,2,Superávit por Valuación
+320020100,320,2,Superávit por Valuación de Inmuebles
+320020200,320,2,Superávit por Valuación de Inmuebles Adquiridos en Arrendamiento
+320020300,320,2,Impuesto Sobre la Renta Diferido por Valuación de Inmuebles
+320020400,320,2,Superávit por Valuación de Valores
+320020500,320,2,Déficit por Valuación de Valores
+320020600,320,2,Resultado por Posición Monetaria de las Inv. Disponibles para su Venta
+320020700,320,2,Impuesto Sobre la Renta Diferido de las Inv. Disponibles para su Venta
+320020800,320,2,Resultado en la Valuación de la Reserva de Riesgos en Curso por variaciones en las Tasas
+320020801,320,2,Superávit/ Déficit por Valuación de la Reserva de Riesgos en Curso de Largo Plazo
+320020802,320,2,Impuesto Sobre la Renta Diferido de la Reserva de Riesgos en Curso de Largo Plazo
+320030000,320,3,Inversiones Permanentes
+320030100,320,3,Utilidades No Distribuidas de Inversiones Permanentes
+320030200,320,3,Participación en la Actualización de Capital Contable de Inversiones Permanentes
+320030300,320,3,Participación en Cuentas de Capital Contable de Inversiones Permanentes
+320040000,320,4,Resultados o Remanentes de Ejercicios Anteriores
+320050000,320,5,Resultado o Remanente del Ejercicio
+320060000,320,6,Resultado por Tenencia de Activos No Monetarios
+320060100,320,6,Corrección por Reexpresión
+320060200,320,6,Resultado por Tenencia de Activos No Monetarios
+320070000,320,7,Remediciones por Beneficios Definidos a los Empleados
+330000000,330,0,Participación Controladora
+340000000,340,0,Participación No Controladora
+350000000,350,0,Remediciones por Beneficios Definidos a los Empleados
+400000000,400,0,Total Cuentas de Orden
+401000000,401,0,Valores en Depósito
+401010000,401,1,Valores en Custodia
+401020000,401,2,Valores en Prenda
+401030000,401,3,Bienes Embargados
+401040000,401,4,Colateral de Seguros de garantía Financiera
+402000000,402,0,Fondos en Administración
+402010000,402,1,Fondos para Obligaciones Laborales en Administración
+402020000,402,2,Fondos en Administración
+402030000,402,3,Fondos Recibidos en Administración de Pérdidas
+402040000,402,4,Fideicomisos
+402050000,402,5,Productos a Favor de Fideicomitentes en Administración
+403000000,403,0,Responsabilidades por Fianzas en Vigor
+403010000,403,1,Fianzas en Vigor
+403020000,403,2,(-)  Fianzas Cedidas en Reafianzamiento
+404000000,404,0,Garantías de Recuperación
+404010000,404,1,Garantías de Recuperación por Fianzas Expedidas
+404020000,404,2,(-) Participación a Reaseguradoras y Reafianzadoras de Garantías de Recuperación
+404020100,404,2,(-) Por Fianzas Expedidas
+404020200,404,2,(-) Por Seguros de Caución
+404030000,404,3,Garantías de Recuperación por Seguros de Caución
+405000000,405,0,Reclamaciones Recibidas Pendientes de Comprobación
+405010000,405,1,Reclamaciones Recibidas
+405020000,405,2,(-)  Participación de Reclamaciones Recibidas
+406000000,406,0,Reclamaciones Contingentes
+406010000,406,1,Reclamaciones Contingentes
+406020000,406,2,(-)  Participación de Reclamaciones Contingentes
+407000000,407,0,Reclamaciones Pagadas
+407010000,407,1,Reclamaciones Pagadas
+407020000,407,2,(-)  Participación de Reclamaciones Pagadas
+408000000,408,0,Reclamaciones Canceladas
+408010000,408,1,Reclamaciones Canceladas del Ejercicio
+408020000,408,2,(-) Participación de Reclamaciones Canceladas
+409000000,409,0,Recuperación de Reclamaciones Pagadas
+409010000,409,1,Recuperación de Reclamaciones Pagadas
+409020000,409,2,(-)  Participación de Recuperación de Reclamaciones Pagadas
+410000000,410,0,Pérdida Fiscal por Amortizar
+411000000,411,0,Reserva por Constituir para Obligaciones Laborales
+412000000,412,0,Cuentas de Registro
+412010000,412,1,De Capital
+412010100,412,1,Capital de Aportación Actualizado
+412010200,412,1,Obligaciones Subordinadas Emitidas
+412010300,412,1,Superávit por Valuación de Inmuebles Capitalizados
+412020000,412,2,De Registro Fiscal
+412020100,412,2,Activo por Depreciar
+412020200,412,2,Gastos por Amortizar
+412020300,412,2,Ajuste por Actualización Fiscal
+412020400,412,2,Resultado Fiscal
+412020500,412,2,Utilidad Fiscal Neta por Distribuir
+412030000,412,3,Diversos
+412030100,412,3,Cuentas Incobrables
+412030200,412,3,(-)  Participación de Cuentas Incobrables por Reafianzamiento
+412030300,412,3,Compra de Coberturas Cambiarias
+412030400,412,3,Depositarios de Pólizas de Fianzas por Expedir
+412030500,412,3,Sanciones Impuestas Pendientes de Pago
+412030600,412,3,Intereses devengados no cobrados derivados de cartera de Crédito vencida
+412030700,412,3,Conceptos Diversos No Especificados
+413000000,413,0,Operaciones con Productos Derivados
+413010000,413,1,Adquisición de Contratos de Opciones
+413020000,413,2,Derechos y Obligaciones por Operaciones a Futuro
+413030000,413,3,Adquisición de Swaps
+413040000,413,4,Adquisición de Forwards
+414000000,414,0,Operaciones con Valores Otorgadas en Préstamo
+415000000,415,0,Garantías Recibidas por Derivados
+416000000,416,0,Garantías Recibidas por Reporto
+510000000,510,0,Primas Emitidas
+510010000,510,1,Directo
+510020000,510,2,Tomado
+520000000,520,0,Primas Cedidas
+520010000,520,1,Directo
+520020000,520,2,Tomado
+530000000,530,0,Primas De Retención
+530010000,530,1,Directo
+530020000,530,2,Tomado
+540000000,540,0,Incremento Neto de la Reserva de Riesgos en Curso y de Fianzas en Vigor
+540010000,540,1,Directo
+540020000,540,2,Tomado
+550000000,550,0,Primas de Retención Devengadas
+550010000,550,1,Directo
+550020000,550,2,Tomado
+560000000,560,0,Costo Neto de Adquisición
+560010000,560,1,Comisiones a Agentes
+560020000,560,2,Compensaciones Adicionales a Agentes
+560030000,560,3,Comisiones por Reaseguro y Reafianzamiento Tomado
+560040000,560,4,Comisiones por Reaseguro y Reafianzamiento Cedido
+560040100,560,4,Directo
+560040200,560,4,Tomado
+560050000,560,5,Cobertura de Exceso de Pérdida
+560050100,560,5,Directo
+560050200,560,5,Tomado
+560060000,560,6,Otros
+560060100,560,6,Directo
+560060200,560,6,Tomado
+570000000,570,0,"Costo Neto de Siniestralidad, Reclamaciones y Otras Obligaciones Pendientes de Cumplir"
+570010000,570,1,Siniestralidad y Otras Obligaciones Pendientes de Cumplir
+570010100,570,1,Directo
+570010200,570,1,Tomado
+570020000,570,2,Siniestralidad Recuperada del Reaseguro No Proporcional
+570020100,570,2,Directo
+570020200,570,2,Tomado
+570030000,570,3,Reclamaciones
+570030100,570,3,Directo
+570030200,570,3,Tomado
+570040000,570,4,Reclamaciones Recuperadas del Reaseguro y Reafianzamiento No Proporcional
+570040100,570,4,Directo
+570040200,570,4,Tomado
+580000000,580,0,Utilidad (Pérdida) Técnica
+590000000,590,0,Incremento Neto de Otras Reservas Técnicas
+590010000,590,1,Reserva para Riesgos Catastróficos
+590020000,590,2,Reserva para Seguros Especializados
+590030000,590,3,Reserva de Contingencia
+590040000,590,4,Otras Reservas
+600000000,600,0,Resultado de Operaciones Análogas y Conexas
+600010000,600,1,Ingresos por Administración de Servicios Conexos
+600020000,600,2,Ingresos por Servicios Conexos
+600030000,600,3,Gastos por Servicios Análogos y Conexos
+610000000,610,0,Utilidad (Pérdida) Bruta
+620000000,620,0,Gastos de Operación Netos
+620010000,620,1,Gastos Administrativos y Operativos
+620020000,620,2,Remuneraciones y Prestaciones al Personal
+620030000,620,3,Depreciaciones y Amortizaciones
+630000000,630,0,Utilidad (Pérdida) de la Operación
+640000000,640,0,Resultado Integral de Financiamiento
+640010000,640,1,De Inversiones
+640020000,640,2,Por Venta de Inversiones
+640030000,640,3,Por Valuación de Inversiones
+640040000,640,4,Por Recargo sobre Primas
+640050000,640,5,Por Emisión de Instrumentos de Deuda
+640060000,640,6,Por Reaseguro Financiero
+640070000,640,7,Intereses por Créditos
+640080000,640,8,Castigos preventivos por Importes Recuperables de Reaseguro
+640090000,640,9,Castigos preventivos por riesgos crediticios
+640100000,640,10,Otros
+640110000,640,11,Resultado Cambiario
+640120000,640,12,Resultado por Posición Monetaria
+650000000,650,0,Participación en el Resultado de Inversiones Permanentes
+660000000,660,0,Utilidad (Pérdida) antes de Impuestos a la Utilidad
+670000000,670,0,Provisión para el Pago de Impuestos a la Utilidad
+680000000,680,0,Utilidad (Pérdida) antes de Operaciones Discontinuadas
+690000000,690,0,Operaciones Discontinuadas
+700000000,700,0,Utilidad  (Pérdida) del Ejercicio

@@ -1,0 +1,108 @@
+﻿OPERACION,CVE_RAMO,CVE_SUBRAMO,DESCRIPCION
+0000,000,000,Total general
+1000,000,000,Vida Total
+1000,010,000,Vida
+1000,010,011,Vida Individual
+1000,010,012,Vida Grupo
+1000,010,013,Vida Colectivo
+2000,000,000,Pensiones Total
+2000,020,000,Pensiones
+2000,020,021,IMSS Incapacidad Permanente RT
+2000,020,022,IMSS Muerte (riesgos de trabajo)
+2000,020,023,IMSS Invalidez (invalidez y vida)
+2000,020,024,IMSS Muerte (invalidez y vida)
+2000,020,025,"IMSS Jubilación (retiro, cesantía y vejez)"
+2000,020,201,ISSSTE Incapacidad Permanente RT
+2000,020,202,ISSSTE Muerte (riesgos de trabajo)
+2000,020,203,ISSSTE Invalidez (invalidez y vida)
+2000,020,204,ISSSTE Muerte (invalidez y vida)
+2000,020,205,"ISSSTE Jubilación (retiro, cesantía y vejez)"
+3000,000,000,Accidentes y Enfermedades Total
+3000,030,000,Accidentes y Enfermedades
+3000,030,331,Accidentes Personales
+3000,030,331,AP Individual
+3000,030,331,AP Grupo
+3000,030,331,AP Colectivo
+3000,030,332,Gastos Médicos
+3000,030,332,GMM. Individual
+3000,030,332,GMM. Grupo
+3000,030,332,GMM. Colectivo
+3000,030,333,Salud
+3000,030,333,Salud Individual
+3000,030,333,Salud Grupo
+3000,030,333,Salud Colectivo
+4000,000,000,Daños
+4000,040,000,Responsabilidad Civil y Riesgos Profesionales
+4000,040,041,General
+4000,040,042,Aviones y Barcos
+4000,040,043,Viajero
+4000,040,044,Otros
+4000,050,000,Marítimo y Transportes
+4000,050,051,Carga
+4000,050,052,Cascos
+4000,060,000,Incendio
+4000,070,000,Riesgos Catastróficos
+4000,070,071,Terremoto y Erupción Volcánica
+4000,070,073,Huracán y Otros Riesgos Hidrometeorológicos
+4000,070,075,Otros
+4000,080,000,Agrícola y de animales
+4000,080,081,Agrícola
+4000,080,082,Pecuario
+4000,080,083,Otros
+4000,090,000,Automóviles
+4000,090,091,Automóviles Residentes
+4000,090,092,Camiones
+4000,090,093,Automóviles Turistas
+4000,090,094,Otros
+4000,090,095,Obligatorios
+4000,100,000,Crédito
+4000,103,000,Crédito a la vivienda
+4000,106,000,Garantía financiera
+4000,110,000,Diversos
+4000,110,111,Misceláneos
+4000,110,112,Técnicos
+4000,130,000,Reafianzamiento
+4000,130,131,Fidelidad
+4000,130,132,Judicial o Penal
+4000,130,133," Administrativo"
+4000,130,134,De crédito
+4000,190,000,Caución
+4000,190,191," Fidelidad"
+4000,190,192," Judicial o Penal"
+4000,190,192," Penales"
+4000,190,192," No penales"
+4000,190,192," Amparan conductores de automóviles"
+4000,190,193," Administrativo"
+4000,190,193," Por Obra"
+4000,190,193," Proveeduría"
+4000,190,193," Fiscales"
+4000,190,193," Arrendamiento"
+4000,190,193," Otras de Administrativo"
+4000,190,194," De Crédito"
+4000,190,194," Suministro"
+4000,190,194," Compra Venta"
+4000,190,194," Financiera"
+4000,190,194," Otras de Crédito"
+5000,000,000,Fianzas
+5000,140,000,Fidelidad
+5000,140,141,Individual
+5000,140,142," Colectivo"
+5000,150,000," Judicial o Penal"
+5000,150,151," Penales"
+5000,150,152," No penales"
+5000,150,153," Amparan conductores de automóviles"
+5000,160,000," Administrativo"
+5000,160,161," Por Obra"
+5000,160,162," Proveeduría"
+5000,160,163," Fiscales"
+5000,160,164," Arrendamiento"
+5000,160,165," Otras de Administrativo"
+5000,170,000,De crédito
+5000,170,171," Suministro"
+5000,170,172," Compra Venta"
+5000,170,173," Financiera"
+5000,170,174," Otras de Crédito"
+5000,180,000," Fideicomisos en garantía"
+5000,180,181," Relacionados con pólizas de fianzas"
+5000,180,182," Sin relación con póliza de fianzas"
+6000,000,000,Fondo de Pensiones o Jubil. y Primas de Antig. en Admon.

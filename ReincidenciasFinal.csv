@@ -1,0 +1,353 @@
+﻿Clave Institución ,Clave Conducta,Area,Nombre Institución,Descripción de la Infraccion,Año Reincidencia
+F0001,F08-CIF0063,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Crédito Afianzador, S.A., Compañía Mexicana de Garantías",Incorrecta presentación de información financiera,2007
+F0018,F08-CIF0063,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Fianzas Dorama, S.A.",Incorrecta presentación de información financiera,2007
+S0036,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",No entrega de información técica-actuarial en el plazo establecido ,2007
+S0088,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Old Mutual Life, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2007
+S0100,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Patrimonial Daños, S.A.",Incorrecta presentacion de informacion de reaseguro ,2007
+S0012,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"AIG Seguros México, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2007
+S0043,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Grupo Nacional Provincial, S.A.B",Incorrecta presentacion de informacion de reaseguro ,2007
+P0903,F04-CIP0015,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"HSBC Pensiones, S.A. ",Desviación en la constitución de la reserva de riesgos en curso de instituciones de seguros,2007
+P0903,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"HSBC Pensiones, S.A. ",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2007
+P0903,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"HSBC Pensiones, S.A. ",Incorrecta presentacion de informacion técnica-actuarial,2007
+H0705,F07-CIH0035,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE SALUD,"AXA Salud, S.A. de C.V.",No entrega de información técica-actuarial en el plazo establecido ,2007
+H0705,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE SALUD,"AXA Salud, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2007
+H0706,F07-CIH0035,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE SALUD,"Salud Inbursa, S.A.",No entrega de información técica-actuarial en el plazo establecido ,2007
+H0708,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE SALUD,"Novamedic Seguros de Salud, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2007
+H0710,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE SALUD,"Vitamédica, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2007
+H0712,F04-CIH0016,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE SALUD,"Seguros Centauro, Salud Especializada, S.A. de C.V.",Desviación en la constitución de la reserva para obligaciones pendientes de cumplir de instituciones de seguros,2007
+H0712,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE SALUD,"Seguros Centauro, Salud Especializada, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2007
+F0004,F08-CIF0063,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Fianzas Atlas, S.A ",Incorrecta presentación de información financiera,2007
+S0001,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Banorte, S.A de C.V., Grupo Financiero Banorte",Incorrecta presentación de informacion financiera ,2007
+S0022,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Inbursa, S.A., Grupo Financiero Inbursa",Incorrecta presentación de informacion financiera ,2007
+S0039,F02-CIS0025,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Chubb Seguros México, S.A.",Faltante en la Cobertura de Capital Minimo de Garantia.,2007
+H0705,F04-CIH0015,DIRECCIÓN GENERAL DE SUPERVISIÓN DEL SEGURO DE SALUD,"AXA Salud, S.A. de C.V.",Desviación en la constitución de la reserva de riesgos en curso de instituciones de seguros,2007
+H0705,F15-CIH0008,DIRECCIÓN GENERAL DE SUPERVISIÓN DEL SEGURO DE SALUD,"AXA Salud, S.A. de C.V.",Desapego a Nota Técnica,2007
+F0013,F08-CIF0063,DIRECCIÓN GENERAL DE SUPERVISIÓN FINANCIERA,"Afianzadora Insurgentes, S.A de C.V., Grupo Financiero Aserta",Incorrecta presentación de información financiera,2007
+F0013,F14 BIS-CIF0067,DIRECCIÓN GENERAL DE SUPERVISIÓN FINANCIERA,"Afianzadora Insurgentes, S.A de C.V., Grupo Financiero Aserta",Pago de prima a los reaseguradores participantes  fuera del plazo ,2007
+F0013,F22-CIF0007,DIRECCIÓN GENERAL DE SUPERVISIÓN FINANCIERA,"Afianzadora Insurgentes, S.A de C.V., Grupo Financiero Aserta",No apegarse a las Reglas de Garantías de Fianzas de Crédito.,2007
+F0013,F24-CIF0080,DIRECCIÓN GENERAL DE SUPERVISIÓN FINANCIERA,"Afianzadora Insurgentes, S.A de C.V., Grupo Financiero Aserta",Deficiencias de Control,2007
+S0036,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",No entrega de información técica-actuarial en el plazo establecido ,2008
+S0041,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Mapfre México, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2008
+S0061,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"REASEGURADORA PATRIA, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2008
+S0077,F08-CIS0090,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"HSBC Seguros, S.A. de C.V., Grupo Financiero HSBC",Incorrecta presentación de informacion financiera ,2008
+S0082,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Zurich Vida, Compañía de Seguros, S.A.",No entrega de información técica-actuarial en el plazo establecido ,2008
+S0091,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"HIR Compañía de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2008
+F0009,F19-CIF0003,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"ACE Fianzas Monterrey, S.A.",Exceder limites de retención por acumulacion de responsabilidades a un solo fiado.,2008
+I0004,F33-CIIR0001,DIRECCIÓN DE VIGILANCIA DE REASEGURO,#N/A,Omitir proporcionar la información requerida en la forma y términos solicitados,2008
+S0030,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Chubb de México, Compañia de Seguros, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2008
+S0030,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Chubb de México, Compañia de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2008
+S0036,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",Incorrecta presentacion de informacion de reaseguro ,2008
+S0088,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Old Mutual Life, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2008
+P0909,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Metlife Pensiones México, S.A.",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2008
+P0909,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Metlife Pensiones México, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2008
+H0708,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE SALUD,"Novamedic Seguros de Salud, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2008
+F0006,F08-CIF0063,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Afianzadora Sofimex, S.A.",Incorrecta presentación de información financiera,2008
+P0910,F08-CIP0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Pensiones Inbursa, S.A., Grupo Financiero Inbursa",Incorrecta presentación de informacion financiera ,2008
+S0001,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Banorte, S.A de C.V., Grupo Financiero Banorte",Incorrecta presentación de informacion financiera ,2008
+S0010,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Sura, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2008
+S0012,F01 Bis-CIS0023,DIRECCIÓN DE VIGILANCIA FINANCIERA,"AIG Seguros México, S.A. de C.V.",Faltante en la Cobertura de Inversión de Reservas Técnicas a  corto plazo.,2008
+S0016,F01-CIS0083,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Ve por Más, S.A., Grupo Financiero Ve por Más",Faltante en la Cobertura de Inversión de Reservas Técnicas en Moneda Extranjera,2008
+S0037,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"QBE de México Compañía de Seguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2008
+S0039,F02-CIS0025,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Chubb Seguros México, S.A.",Faltante en la Cobertura de Capital Minimo de Garantia.,2008
+S0046,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Quálitas, Compañía de Seguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2008
+S0061,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"REASEGURADORA PATRIA, S.A.",Incorrecta presentación de informacion financiera ,2008
+S0063,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Istmo México, Compañía de Reaseguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2008
+S0088,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Old Mutual Life, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2008
+S0003,F07-CIS0087,DIRECCIÓN GENERAL DE SUPERVISIÓN DE REASEGURO,"Allianz México, S.A., Compañía de Seguros",No entrega de información de reaseguro en el plazo establecido,2008
+S0003,F18-CIS0012,DIRECCIÓN GENERAL DE SUPERVISIÓN DE REASEGURO,"Allianz México, S.A., Compañía de Seguros",Exceder Límites de Retención,2008
+P0903,27-0039,DIRECCIÓN GENERAL DE SUPERVISIÓN DEL SEGURO DE PENSIONES Y SALUD,"HSBC Pensiones, S.A. ",,2008
+S0097,10-0033,DIRECCIÓN GENERAL DE SUPERVISIÓN FINANCIERA,"Deco Seguros, S.A. de C.V.",,2008
+F0009,F08-CIF0063,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"ACE Fianzas Monterrey, S.A.",Incorrecta presentación de información financiera,2009
+S0107,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Primero Seguros, S.A. de C,V.",Incorrecta presentacion de informacion técnica-actuarial,2009
+S0039,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Chubb Seguros México, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2009
+S0041,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Mapfre México, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2009
+S0043,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Grupo Nacional Provincial, S.A.B",No entrega de información técica-actuarial en el plazo establecido ,2009
+F0006,F19-CIF0003,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Afianzadora Sofimex, S.A.",Exceder limites de retención por acumulacion de responsabilidades a un solo fiado.,2009
+I0001,F33-CIIR0004,DIRECCIÓN DE VIGILANCIA DE REASEGURO,#N/A,No presentar en el plazo establecido la póliza de su seguro para cubrir las responsabilidades en que puedan incurrir,2009
+I0041,F33-CIIR0001,DIRECCIÓN DE VIGILANCIA DE REASEGURO,#N/A,Omitir proporcionar la información requerida en la forma y términos solicitados,2009
+S0001,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Banorte, S.A de C.V., Grupo Financiero Banorte",Incorrecta presentacion de informacion de reaseguro ,2009
+S0023,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Atlas, S.A.",Incorrecta presentacion de informacion de reaseguro ,2009
+S0030,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Chubb de México, Compañia de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2009
+S0036,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",Incorrecta presentacion de informacion de reaseguro ,2009
+S0039,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Chubb Seguros México, S.A.",No entrega de información de reaseguro en el plazo establecido,2009
+S0047,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Protección Agropecuaria, Compañía de Seguros, S.A.",Incorrecta presentacion de informacion de reaseguro ,2009
+S0058,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Metlife Más, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2009
+S0094,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Afirme, S.A. de C.V., Afirme Grupo Financiero",Incorrecta presentacion de informacion de reaseguro ,2009
+P0911,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Royal & SunAlliance Pensiones (México), S.A. de C.V.",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2009
+P0911,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Royal & SunAlliance Pensiones (México), S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2009
+F0014,F08-CIF0063,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Liberty Fianzas, S.A. de C.V. ",Incorrecta presentación de información financiera,2009
+S0001,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Banorte, S.A de C.V., Grupo Financiero Banorte",Incorrecta presentación de informacion financiera ,2009
+S0016,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Ve por Más, S.A., Grupo Financiero Ve por Más",Incorrecta presentación de informacion financiera ,2009
+S0037,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"QBE de México Compañía de Seguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2009
+S0039,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Chubb Seguros México, S.A.",Incorrecta presentación de informacion financiera ,2009
+S0045,F08-CIS0026,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Principal Seguros, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de Estados Financieros,2009
+S0007,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Atradius Seguros de Crédito, S.A.",Incorrecta presentación de informacion financiera ,2009
+S0080,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Tokio Marine, Compañía de Seguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2009
+S0066,F14 Bis-CIS0042,DIRECCIÓN GENERAL DE SUPERVISIÓN DE REASEGURO,"XL Seguros México, S.A. de C.V.",Pago de prima a los reaseguradores participantes fuera del plazo,2009
+H0708,F11-CIH0031,DIRECCIÓN GENERAL DE SUPERVISIÓN FINANCIERA,"Novamedic Seguros de Salud, S.A. de C.V.",Registro contable equivocado,2009
+S0016,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Seguros Ve por Más, S.A., Grupo Financiero Ve por Más",Incorrecta presentacion de informacion técnica-actuarial,2010
+S0039,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Chubb Seguros México, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2010
+F0022,F08-CIF0064,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Mapfre Fianzas, S.A.",Incorrecta presentación de información de reaseguro,2010
+H0708,F07-CIH0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Novamedic Seguros de Salud, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2010
+S0110,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO," Armour Secure Insurance, S.A.de C.V.",No entrega de información de reaseguro en el plazo establecido,2010
+S0110,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO," Armour Secure Insurance, S.A.de C.V.",Incorrecta presentacion de informacion de reaseguro ,2010
+S0111,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Insignia Life, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2010
+S0018,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Zurich Santander Seguros México, S.A.",Incorrecta presentacion de informacion de reaseguro ,2010
+S0023,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Atlas, S.A.",No entrega de información de reaseguro en el plazo establecido,2010
+S0023,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Atlas, S.A.",Incorrecta presentacion de informacion de reaseguro ,2010
+S0025,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Zurich, Compañía de Seguros, S.A.",No entrega de información de reaseguro en el plazo establecido,2010
+S0030,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Chubb de México, Compañia de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2010
+S0036,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",Incorrecta presentacion de informacion de reaseguro ,2010
+S0039,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Chubb Seguros México, S.A.",No entrega de información de reaseguro en el plazo establecido,2010
+S0041,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Mapfre México, S.A.",No entrega de información de reaseguro en el plazo establecido,2010
+S0058,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Metlife Más, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2010
+S0058,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Metlife Más, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2010
+S0059,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Solunion México Seguros de Crédito, .S.A.",Incorrecta presentacion de informacion de reaseguro ,2010
+S0064,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Euler Hermes Seguro de Crédito, S.A.",Incorrecta presentacion de informacion de reaseguro ,2010
+S0066,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"XL Seguros México, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2010
+S0008,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros El Potosí, S.A.",Incorrecta presentacion de informacion de reaseguro ,2010
+S0080,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Tokio Marine, Compañía de Seguros, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2010
+S0094,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Afirme, S.A. de C.V., Afirme Grupo Financiero",Incorrecta presentacion de informacion de reaseguro ,2010
+H0705,F04-CIH0016,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"AXA Salud, S.A. de C.V.",Desviación en la constitución de la reserva para obligaciones pendientes de cumplir de instituciones de seguros,2010
+H0707,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"General de Salud, Compañía de Seguros, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2010
+H0708,F08-CIH0090,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Novamedic Seguros de Salud, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2010
+H0712,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Seguros Centauro, Salud Especializada, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2010
+P0903,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"HSBC Pensiones, S.A. ",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2010
+P0911,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Royal & SunAlliance Pensiones (México), S.A. de C.V.",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2010
+P0911,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Royal & SunAlliance Pensiones (México), S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2010
+S0016,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Ve por Más, S.A., Grupo Financiero Ve por Más",Incorrecta presentación de informacion financiera ,2010
+S0039,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Chubb Seguros México, S.A.",Incorrecta presentación de informacion financiera ,2010
+S0048,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"AXA Seguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2010
+S0096,F01-CIS0083,DIRECCIÓN DE VIGILANCIA FINANCIERA,"CESCE México, S.A. de C.V.",Faltante en la Cobertura de Inversión de Reservas Técnicas en Moneda Extranjera,2010
+V0601,F01-CIS0084,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Genworth Seguros de Crédito a la Vivienda, S.A. de C.V.",Faltante en la Cobertura de Inversión de Reservas Técnicas en Moneda Indizada,2010
+F0020,F08-CIF0018,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Fianzas Asecam, S.A.",Incorrecta presentación de información técnica-actuarial.,2011
+S0012,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"AIG Seguros México, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2011
+S0018,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Zurich Santander Seguros México, S.A.",No entrega de información técica-actuarial en el plazo establecido ,2011
+S0039,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Chubb Seguros México, S.A.",No entrega de información técica-actuarial en el plazo establecido ,2011
+S0047,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Protección Agropecuaria, Compañía de Seguros, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2011
+S0048,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"AXA Seguros, S.A. de C.V.",No entrega de información técica-actuarial en el plazo establecido ,2011
+S0066,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"XL Seguros México, S.A. de C.V.",No entrega de información técica-actuarial en el plazo establecido ,2011
+F0022,F08-CIF0064,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Mapfre Fianzas, S.A.",Incorrecta presentación de información de reaseguro,2011
+H0708,F07-CIH0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Novamedic Seguros de Salud, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2011
+S0104,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Cardif México Seguros de Vida, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2011
+S0110,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO," Armour Secure Insurance, S.A.de C.V.",No entrega de información de reaseguro en el plazo establecido,2011
+S0111,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Insignia Life, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2011
+S0012,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"AIG Seguros México, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2011
+S0016,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Ve por Más, S.A., Grupo Financiero Ve por Más",No entrega de información de reaseguro en el plazo establecido,2011
+S0016,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Ve por Más, S.A., Grupo Financiero Ve por Más",Incorrecta presentacion de informacion de reaseguro ,2011
+S0018,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Zurich Santander Seguros México, S.A.",Incorrecta presentacion de informacion de reaseguro ,2011
+S0023,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Atlas, S.A.",Incorrecta presentacion de informacion de reaseguro ,2011
+S0030,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Chubb de México, Compañia de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2011
+S0036,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",Incorrecta presentacion de informacion de reaseguro ,2011
+S0050,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Banamex, S.A. de C.V., Grupo Financiero Banamex",Incorrecta presentacion de informacion de reaseguro ,2011
+S0058,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Metlife Más, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2011
+S0058,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Metlife Más, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2011
+S0059,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Solunion México Seguros de Crédito, .S.A.",Incorrecta presentacion de informacion de reaseguro ,2011
+S0066,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"XL Seguros México, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2011
+S0008,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros El Potosí, S.A.",Incorrecta presentacion de informacion de reaseguro ,2011
+S0080,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Tokio Marine, Compañía de Seguros, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2011
+S0092,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Grupo Mexicano de Seguros, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2011
+S0094,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Afirme, S.A. de C.V., Afirme Grupo Financiero",Incorrecta presentacion de informacion de reaseguro ,2011
+S0095,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros de Vida Sura México, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2011
+P0902,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Banorte, S.A. de C.V., Grupo Financiero Banorte",Incorrecta presentacion de informacion técnica-actuarial,2011
+P0905,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Incorrecta presentacion de informacion técnica-actuarial,2011
+P0906,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Profuturo GNP Pensiones, S.A. de C.V.",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2011
+P0906,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Profuturo GNP Pensiones, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2011
+P0911,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Royal & SunAlliance Pensiones (México), S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2011
+S0022,F01-CIS0083,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Inbursa, S.A., Grupo Financiero Inbursa",Faltante en la Cobertura de Inversión de Reservas Técnicas en Moneda Extranjera,2011
+S0036,F01-CIS0022,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",Faltante en la Cobertura de Inversión de Reservas Técnicas en  Moneda Nacional,2011
+S0091,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"HIR Compañía de Seguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2011
+S0041,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Mapfre México, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2012
+F0004,F08-CIF0064,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Fianzas Atlas, S.A ",Incorrecta presentación de información de reaseguro,2012
+H0705,F07-CIH0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"AXA Salud, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2012
+S0103,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Azteca Daños, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2012
+S0104,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Cardif México Seguros de Vida, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2012
+S0107,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Primero Seguros, S.A. de C,V.",Incorrecta presentacion de informacion de reaseguro ,2012
+S0016,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Ve por Más, S.A., Grupo Financiero Ve por Más",No entrega de información de reaseguro en el plazo establecido,2012
+S0018,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Zurich Santander Seguros México, S.A.",Incorrecta presentacion de informacion de reaseguro ,2012
+S0022,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Inbursa, S.A., Grupo Financiero Inbursa",Incorrecta presentacion de informacion de reaseguro ,2012
+S0030,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Chubb de México, Compañia de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2012
+S0036,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",Incorrecta presentacion de informacion de reaseguro ,2012
+S0050,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Banamex, S.A. de C.V., Grupo Financiero Banamex",Incorrecta presentacion de informacion de reaseguro ,2012
+S0058,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Metlife Más, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2012
+S0061,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"REASEGURADORA PATRIA, S.A.",No entrega de información de reaseguro en el plazo establecido,2012
+S0079,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer",Incorrecta presentacion de informacion de reaseguro ,2012
+S0008,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros El Potosí, S.A.",Incorrecta presentacion de informacion de reaseguro ,2012
+S0009,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"General de Seguros, S.A.B.",Incorrecta presentacion de informacion de reaseguro ,2012
+S0091,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"HIR Compañía de Seguros, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2012
+S0095,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros de Vida Sura México, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2012
+S0098,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Azteca, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2012
+H0701,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Plan Seguro, S.A. de C.V., Compañía de Seguros",Incorrecta presentacion de informacion técnica-actuarial,2012
+P0902,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Banorte, S.A. de C.V., Grupo Financiero Banorte",Incorrecta presentacion de informacion técnica-actuarial,2012
+P0905,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2012
+P0905,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Incorrecta presentacion de informacion técnica-actuarial,2012
+P0905,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Incorrecta presentacion de informacion técnica-actuarial,2012
+P0905,F66-CIP0127,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ","No comercializar a través del Sistema Administrador de Ofertas y Resoluciones (SAOR)				.",2012
+P0906,F66-CIP0127,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Profuturo GNP Pensiones, S.A. de C.V.","No comercializar a través del Sistema Administrador de Ofertas y Resoluciones (SAOR)				.",2012
+P0910,F08-CIP0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Pensiones Inbursa, S.A., Grupo Financiero Inbursa",Incorrecta presentación de informacion financiera ,2012
+S0010,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Seguros Sura, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2012
+S0025,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Zurich, Compañía de Seguros, S.A.",Incorrecta presentación de informacion financiera ,2012
+S0069,F01-CIS0022,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Aseguradora Patrimonial Vida, S.A.",Faltante en la Cobertura de Inversión de Reservas Técnicas en  Moneda Nacional,2012
+S0091,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"HIR Compañía de Seguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2012
+S0034,F49-CIS0094,DIRECCIÓN DE SUPERVISIÓN ESPECIALIZADA,"Metlife México, S.A.",No integrar el Comite de Comunicación y Control conforme a lo previsto en las disposiciones y/o la designación del oficial de cumplimiento recaiga en un funcionario dependiente de las unidades de negocio de la institución que funja como auditor interno. ,2013
+H0702,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Medi Access Seguros de Salud, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2013
+H0705,F07-CIH0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"AXA Salud, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2013
+H0710,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Vitamédica, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2013
+S0100,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Patrimonial Daños, S.A.",No entrega de información de reaseguro en el plazo establecido,2013
+S0022,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Inbursa, S.A., Grupo Financiero Inbursa",Incorrecta presentacion de informacion de reaseguro ,2013
+S0036,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",Incorrecta presentacion de informacion de reaseguro ,2013
+S0037,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"QBE de México Compañía de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2013
+S0045,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Principal Seguros, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de informacion de reaseguro ,2013
+S0006,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Patrimonial Inbursa, S.A.",Incorrecta presentacion de informacion de reaseguro ,2013
+S0061,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"REASEGURADORA PATRIA, S.A.",No entrega de información de reaseguro en el plazo establecido,2013
+S0063,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Istmo México, Compañía de Reaseguros, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2013
+S0064,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Euler Hermes Seguro de Crédito, S.A.",Incorrecta presentacion de informacion de reaseguro ,2013
+S0069,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Patrimonial Vida, S.A.",No entrega de información de reaseguro en el plazo establecido,2013
+S0074,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Agroasemex, S.A.",Incorrecta presentacion de informacion de reaseguro ,2013
+S0079,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer",Incorrecta presentacion de informacion de reaseguro ,2013
+S0008,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros El Potosí, S.A.",No entrega de información de reaseguro en el plazo establecido,2013
+S0089,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"A.N.A. Compañía de Seguros, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2013
+S0091,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"HIR Compañía de Seguros, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2013
+S0095,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros de Vida Sura México, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2013
+S0097,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Deco Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2013
+S0098,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Azteca, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2013
+S0098,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Azteca, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2013
+H0714,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Dentegra Seguros Dentales,S.A.",Incorrecta presentacion de informacion técnica-actuarial,2013
+P0902,F66-CIP0127,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Banorte, S.A. de C.V., Grupo Financiero Banorte","No comercializar a través del Sistema Administrador de Ofertas y Resoluciones (SAOR)				.",2013
+P0905,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2013
+P0905,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Incorrecta presentacion de informacion técnica-actuarial,2013
+P0906,F66-CIP0127,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Profuturo GNP Pensiones, S.A. de C.V.","No comercializar a través del Sistema Administrador de Ofertas y Resoluciones (SAOR)				.",2013
+H0713,F01-CIH0022,DIRECCIÓN DE VIGILANCIA FINANCIERA,"SaludCoop México, S.A. de C.V.",Faltante en la Cobertura de Inversión de Reservas Técnicas en  Moneda Nacional,2013
+H0713,F02-CIH0025,DIRECCIÓN DE VIGILANCIA FINANCIERA,"SaludCoop México, S.A. de C.V.",Faltante en la Cobertura de Capital Minimo de Garantia.,2013
+S0100,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Aseguradora Patrimonial Daños, S.A.",Incorrecta presentación de informacion financiera ,2013
+S0107,F02-CIS0025,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Primero Seguros, S.A. de C,V.",Faltante en la Cobertura de Capital Minimo de Garantia.,2013
+S0110,F08-CIS0026,DIRECCIÓN DE VIGILANCIA FINANCIERA," Armour Secure Insurance, S.A.de C.V.",Incorrecta presentacion de Estados Financieros,2013
+S0027,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"HDI Seguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2013
+S0091,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"HIR Compañía de Seguros, S.A. de C.V.",Incorrecta presentación de informacion financiera ,2013
+H0710,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Vitamédica, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2014
+S0116,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Nezter Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2014
+S0120,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Thona Seguros, S.A. De C.V.",Incorrecta presentacion de informacion de reaseguro ,2014
+S0022,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Inbursa, S.A., Grupo Financiero Inbursa",Incorrecta presentacion de informacion de reaseguro ,2014
+S0036,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Aseguradora Interacciones, S.A. de C.V., Grupo Financiero Interacciones",Incorrecta presentacion de informacion de reaseguro ,2014
+S0039,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Chubb Seguros México, S.A.",No entrega de información de reaseguro en el plazo establecido,2014
+S0006,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Patrimonial Inbursa, S.A.",Incorrecta presentacion de informacion de reaseguro ,2014
+S0008,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros El Potosí, S.A.",No entrega de información de reaseguro en el plazo establecido,2014
+S0097,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Deco Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2014
+H0711,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Servicios Integrales de Salud Nova, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2014
+P0905,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Incorrecta presentacion de informacion técnica-actuarial,2014
+P0906,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Profuturo GNP Pensiones, S.A. de C.V.",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2014
+S0100,F08-CIS0090,DIRECCIÓN DE VIGILANCIA FINANCIERA,"Aseguradora Patrimonial Daños, S.A.",Incorrecta presentación de informacion financiera ,2014
+S0107,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Primero Seguros, S.A. de C,V.",No entrega de información de reaseguro en el plazo establecido,2015
+S0110,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO," Armour Secure Insurance, S.A.de C.V.",No entrega de información de reaseguro en el plazo establecido,2015
+S0116,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Nezter Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2015
+S0120,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Thona Seguros, S.A. De C.V.",Incorrecta presentacion de informacion de reaseguro ,2015
+S0047,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Protección Agropecuaria, Compañía de Seguros, S.A.",No entrega de información de reaseguro en el plazo establecido,2015
+S0080,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Tokio Marine, Compañía de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2015
+H0711,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Servicios Integrales de Salud Nova, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2015
+P0901,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Sura, S.A. de C.V.",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2015
+P0905,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Incorrecta presentacion de informacion técnica-actuarial,2015
+P0905,F66-CIP0127,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ","No comercializar a través del Sistema Administrador de Ofertas y Resoluciones (SAOR)				.",2015
+P0906,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Profuturo GNP Pensiones, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2015
+P0907,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Principal Pensiones, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de informacion técnica-actuarial,2015
+S0047,F49 Bis-CIS0095,DIRECCIÓN DE SUPERVISIÓN ESPECIALIZADA,"Protección Agropecuaria, Compañía de Seguros, S.A.",No impartir cursos de capacitación al menos 1 vez al año,2016
+S0107,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Primero Seguros, S.A. de C,V.",No entrega de información de reaseguro en el plazo establecido,2016
+S0112,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Prevem Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2016
+S0037,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"QBE de México Compañía de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2016
+S0045,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Principal Seguros, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de informacion de reaseguro ,2016
+S0058,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Metlife Más, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2016
+S0061,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"REASEGURADORA PATRIA, S.A.",No entrega de información de reaseguro en el plazo establecido,2016
+S0008,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros El Potosí, S.A.",Incorrecta presentacion de informacion de reaseguro ,2016
+H0711,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Servicios Integrales de Salud Nova, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2016
+H0714,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Dentegra Seguros Dentales,S.A.",Incorrecta presentacion de informacion técnica-actuarial,2016
+P0905,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Incorrecta presentacion de informacion técnica-actuarial,2016
+P0907,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Principal Pensiones, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de informacion técnica-actuarial,2016
+H0701,F49-CIS0094,DIRECCIÓN DE SUPERVISIÓN ESPECIALIZADA,"Plan Seguro, S.A. de C.V., Compañía de Seguros",No integrar el Comite de Comunicación y Control conforme a lo previsto en las disposiciones y/o la designación del oficial de cumplimiento recaiga en un funcionario dependiente de las unidades de negocio de la institución que funja como auditor interno. ,2017
+F0001,F08-CIF0018,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Crédito Afianzador, S.A., Compañía Mexicana de Garantías",Incorrecta presentación de información técnica-actuarial.,2017
+S0122,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Der Neue Horizont Re, S.A.",No entrega de información técica-actuarial en el plazo establecido ,2017
+S0122,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Der Neue Horizont Re, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2017
+S0037,F04-CIS0016,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"QBE de México Compañía de Seguros, S.A. de C.V.",Desviación en la constitución de la reserva para obligaciones pendientes de cumplir de instituciones de seguros,2017
+S0056,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Torreón, Sociedad Mutualista de Seguros",Incorrecta presentacion de informacion técnica-actuarial,2017
+S0089,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"A.N.A. Compañía de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2017
+S0095,F07 Bis-CIF0017,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Seguros de Vida Sura México, S.A. de C.V.",No entrega de información técnica-actuarial en el plazo establecido.,2017
+F0018,F08-CIF0064,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Fianzas Dorama, S.A.",Incorrecta presentación de información de reaseguro,2017
+F0004,F08-CIF0064,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Fianzas Atlas, S.A ",Incorrecta presentación de información de reaseguro,2017
+G0502,F08-CIF0064,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"MBIA México, S.A. de C.V.",Incorrecta presentación de información de reaseguro,2017
+S0107,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Primero Seguros, S.A. de C,V.",Incorrecta presentación de la información.,2017
+S0107,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Primero Seguros, S.A. de C,V.",Incorrecta presentacion de informacion de reaseguro ,2017
+S0112,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Prevem Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2017
+S0122,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Der Neue Horizont Re, S.A.",Incorrecta presentacion de informacion de reaseguro ,2017
+S0123,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Tláloc Seguros, S.A. ",Incorrecta presentacion de informacion de reaseguro ,2017
+S0016,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Ve por Más, S.A., Grupo Financiero Ve por Más",Incorrecta presentacion de informacion de reaseguro ,2017
+S0003,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Allianz México, S.A., Compañía de Seguros",Incorrecta presentacion de informacion de reaseguro ,2017
+S0037,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"QBE de México Compañía de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2017
+S0045,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Principal Seguros, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de informacion de reaseguro ,2017
+S0061,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"REASEGURADORA PATRIA, S.A.",Incorrecta presentacion de informacion de reaseguro ,2017
+S0066,F07-CIS0087,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"XL Seguros México, S.A. de C.V.",No entrega de información de reaseguro en el plazo establecido,2017
+S0079,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer",Incorrecta presentacion de informacion de reaseguro ,2017
+S0081,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"El Águila, Compañía de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2017
+S0098,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Azteca, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2017
+H0711,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Servicios Integrales de Salud Nova, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2017
+H0714,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Dentegra Seguros Dentales,S.A.",Incorrecta presentacion de informacion técnica-actuarial,2017
+H0715,F07-CIH0035,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Odontored Seguros Dentales, S.A. de C.V.",No entrega de información técica-actuarial en el plazo establecido ,2017
+P0901,F07-CIP0035,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Sura, S.A. de C.V.",No entrega de información técica-actuarial en el plazo establecido ,2017
+P0901,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Sura, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2017
+P0903,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"HSBC Pensiones, S.A. ",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2017
+P0907,F07-CIP0122,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Principal Pensiones, S.A. de C.V., Principal Grupo Financiero",No entrega en el plazo establecido de otra información ,2017
+P0907,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Principal Pensiones, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de informacion técnica-actuarial,2017
+P0907,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Principal Pensiones, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de informacion técnica-actuarial,2017
+P0910,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Inbursa, S.A., Grupo Financiero Inbursa",Incorrecta presentacion de informacion técnica-actuarial,2017
+S0047,F49-CIS0082,DIRECCIÓN DE SUPERVISIÓN ESPECIALIZADA,"Protección Agropecuaria, Compañía de Seguros, S.A.",,2018
+F0001,F08-CIF0018,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Crédito Afianzador, S.A., Compañía Mexicana de Garantías",Incorrecta presentación de información técnica-actuarial.,2018
+S0010,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Seguros Sura, S.A. de C.V.",Incorrecta presentación de la información.,2018
+S0103,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Seguros Azteca Daños, S.A. de C.V.",Incorrecta presentación de la información.,2018
+S0111,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Insignia Life, S.A. de C.V.",Incorrecta presentación de la información.,2018
+S0122,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Der Neue Horizont Re, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2018
+S0018,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Zurich Santander Seguros México, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2018
+S0022,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Seguros Inbursa, S.A., Grupo Financiero Inbursa",Incorrecta presentacion de informacion técnica-actuarial,2018
+S0023,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Seguros Atlas, S.A.",Incorrecta presentación de la información.,2018
+S0025,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Zurich, Compañía de Seguros, S.A.",Incorrecta presentación de la información.,2018
+S0043,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Grupo Nacional Provincial, S.A.B",Incorrecta presentación de la información.,2018
+S0006,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Patrimonial Inbursa, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2018
+S0066,F07-CIS0035,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"XL Seguros México, S.A. de C.V.",No entrega de información técica-actuarial en el plazo establecido ,2018
+S0066,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"XL Seguros México, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2018
+S0074,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Agroasemex, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2018
+S0076,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"HDI Global Seguros, S.A.",Incorrecta presentación de la información.,2018
+S0008,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Seguros El Potosí, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2018
+S0089,F08-CIS0036,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"A.N.A. Compañía de Seguros, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2018
+S0093,F07-CIS0109,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Sompo Seguros México, S.A. de C.V.",No entrega en el plazo establecido de otra información ,2018
+G0502,F08-CIF0064,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"MBIA México, S.A. de C.V.",Incorrecta presentación de información de reaseguro,2018
+H0702,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Medi Access Seguros de Salud, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2018
+I0022,F33-CIIR0019,DIRECCIÓN DE VIGILANCIA DE REASEGURO,#N/A,Incorrecta presentacion de estados financieros ,2018
+I0039,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,#N/A,Incorrecta presentacion de informacion de reaseguro ,2018
+S0107,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Primero Seguros, S.A. de C,V.",Incorrecta presentación de la información.,2018
+S0112,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Prevem Seguros, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2018
+S0016,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros Ve por Más, S.A., Grupo Financiero Ve por Más",Incorrecta presentacion de informacion de reaseguro ,2018
+S0003,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Allianz México, S.A., Compañía de Seguros",Incorrecta presentacion de informacion de reaseguro ,2018
+S0045,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Principal Seguros, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de informacion de reaseguro ,2018
+S0079,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Seguros BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer",Incorrecta presentacion de informacion de reaseguro ,2018
+S0096,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"CESCE México, S.A. de C.V.",Incorrecta presentacion de informacion de reaseguro ,2018
+H0702,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Medi Access Seguros de Salud, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2018
+H0704,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"BBVA Bancomer Seguros Salud, S.A. de C.V., Grupo Financiero BBVA Bancomer",Incorrecta presentación de la información.,2018
+H0705,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"AXA Salud, S.A. de C.V.",Incorrecta presentación de la información.,2018
+H0711,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Servicios Integrales de Salud Nova, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2018
+H0712,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Seguros Centauro, Salud Especializada, S.A. de C.V.",Incorrecta presentación de la información.,2018
+H0715,F08-CIH0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Odontored Seguros Dentales, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2018
+H0715,F99-CILISF057,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Odontored Seguros Dentales, S.A. de C.V.",Irregularidad respecto de los fondos especiales de vida y no vida.,2018
+P0901,F07-CIP0122,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Sura, S.A. de C.V.",No entrega en el plazo establecido de otra información ,2018
+P0901,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Sura, S.A. de C.V.",Incorrecta presentacion de informacion técnica-actuarial,2018
+P0903,F04-CIP0019,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"HSBC Pensiones, S.A. ",Desviación en la constitución de otras reservas técnicas de los seguros de pensiones,2018
+P0903,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"HSBC Pensiones, S.A. ",Incorrecta presentacion de informacion técnica-actuarial,2018
+P0905,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones BBVA Bancomer, S.A. de C.V., Grupo Financiero BBVA Bancomer ",Incorrecta presentación de la información.,2018
+P0907,F07-CIP0035,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Principal Pensiones, S.A. de C.V., Principal Grupo Financiero",No entrega de información técica-actuarial en el plazo establecido ,2018
+P0907,F07-CIP0122,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Principal Pensiones, S.A. de C.V., Principal Grupo Financiero",No entrega en el plazo establecido de otra información ,2018
+P0907,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Principal Pensiones, S.A. de C.V., Principal Grupo Financiero",Incorrecta presentacion de informacion técnica-actuarial,2018
+P0908,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Banamex, S.A. de C.V., Grupo Financiero Banamex",Incorrecta presentación de la información.,2018
+P0909,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Metlife Pensiones México, S.A.",Incorrecta presentacion de informacion técnica-actuarial,2018
+P0910,F08-CIP0036,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Inbursa, S.A., Grupo Financiero Inbursa",Incorrecta presentacion de informacion técnica-actuarial,2018
+S0103,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Seguros Azteca Daños, S.A. de C.V.",Incorrecta presentación de la información.,2019
+S0111,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA ACTUARIAL,"Insignia Life, S.A. de C.V.",Incorrecta presentación de la información.,2019
+S0120,F08-CIS0091,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Thona Seguros, S.A. De C.V.",Incorrecta presentacion de informacion de reaseguro ,2019
+V0601,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DE REASEGURO,"Genworth Seguros de Crédito a la Vivienda, S.A. de C.V.",Incorrecta presentación de la información.,2019
+P0902,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Banorte, S.A. de C.V., Grupo Financiero Banorte",Incorrecta presentación de la información.,2019
+P0907,F07-CIP0035,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Principal Pensiones, S.A. de C.V., Principal Grupo Financiero",No entrega de información técica-actuarial en el plazo establecido ,2019
+P0908,F08-CILISF0003,DIRECCIÓN DE VIGILANCIA DEL SEGURO DE PENSIONES Y SALUD,"Pensiones Banamex, S.A. de C.V., Grupo Financiero Banamex",Incorrecta presentación de la información.,2019
